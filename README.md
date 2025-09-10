@@ -28,6 +28,8 @@ I am a Data Science enthusiast with a PhD in Pure Mathematics, passionate about 
 | **SpaceX Falcon 9 Launch Analysis Portfolio** | Complete end-to-end data science project including data collection, wrangling, SQL EDA, interactive visual analytics with Folium, and predictive modeling of booster landing success. | [GitHub Repository](https://github.com/machida97/SpaceX_Falcon9_Portfolio) |
 | **Plotly Dash Interactive Dashboard** | Interactive dashboard for SpaceX launch data, hosted online with filters for launch sites, payload mass, and success prediction. | [Live Demo on Render](https://spacex-launch-dashboard.onrender.com/) |
 
+*More projects coming soon!*
+
 ---
 
 ## 📫 Connect with Me
