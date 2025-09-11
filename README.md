@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a Data Science enthusiast with a PhD in Pure Mathematics, passionate about applying analytical and machine learning skills to real-world problems. I enjoy exploring data, building predictive models, and creating interactive visual analytics. Currently, I am focused on **SpaceX launch analysis** and portfolio projects to showcase my skills in Python, SQL, and interactive dashboards.
+I am a Data Science enthusiast with a PhD in Pure Mathematics, passionate about applying analytical and machine learning skills to real-world problems. I enjoy exploring data, building predictive models, and creating interactive visual analytics. 
 
 ---
 
@@ -15,9 +15,9 @@ I am a Data Science enthusiast with a PhD in Pure Mathematics, passionate about 
 
 - **Languages:** Python, SQL  
 - **Data Science & ML:** Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib, Seaborn, Plotly, Dash  
-- **Tools & Platforms:** Jupyter, Git, GitHub, Render, Heroku  
+- **Tools & Platforms:** Jupyter, Git, GitHub, Render 
 - **Data Visualization:** Interactive dashboards, Folium maps, Plotly charts  
-- **Others:** Data wrangling, feature engineering, predictive modeling, geospatial analytics
+- **Others:** Data wrangling, feature engineering, predictive modeling, geospatial analysis
 
 ---
 
@@ -28,7 +28,7 @@ I am a Data Science enthusiast with a PhD in Pure Mathematics, passionate about 
 | **SpaceX Falcon 9 Launch Analysis Portfolio** | Complete end-to-end data science project including data collection, wrangling, SQL EDA, interactive visual analytics with Folium, and predictive modeling of booster landing success. | [GitHub Repository](https://github.com/machida97/SpaceX_Falcon9_Portfolio) |
 | **Plotly Dash Interactive Dashboard** | Interactive dashboard for SpaceX launch data, hosted online with filters for launch sites, payload mass, and success prediction. | [Live Demo on Render](https://spacex-launch-dashboard.onrender.com/) |
 
-*More projects coming soon!*
+*Additional portfolio projects coming soon!*
 
 ---
 
