@@ -15,11 +15,11 @@ I am an **Aspiring Data Scientist** with a PhD in Pure Mathematics, building rea
 
 ## 🛠️ Skills
 
-- **Programming & Data:** Python, SQL, Pandas, NumPy  
-- **Machine Learning & Modeling:** scikit-learn, TensorFlow, Logistic Regression, Random Forest, XGBoost, feature engineering, hyperparameter tuning  
-- **Evaluation & Deployment:** ROC-AUC, precision/recall, confusion matrix, model deployment simulation, business insight translation  
-- **Visualization & Dashboards:** Matplotlib, Seaborn, Plotly, Dash, Folium  
-- **Tools & Platforms:** Jupyter Notebook, Git, GitHub, Render  
+- **Programming & Data Handling:** Python (Pandas, NumPy), SQL  
+- **Machine Learning & Modeling:** scikit-learn, TensorFlow, logistic regression, random forests, gradient boosting (XGBoost/GBM), regularization (Ridge, Lasso), feature engineering, hyperparameter tuning  
+- **Statistical Analysis & Evaluation:** hypothesis testing, regression analysis, ROC-AUC, precision/recall, cross-validation, model interpretability  
+- **Visualization & Communication:** Matplotlib, Seaborn, Plotly, Dash, Folium, data storytelling, dashboard design  
+- **Tools & Platforms:** Jupyter Notebook, Git/GitHub, Render, Linux/CLI  
 
 ---
 
@@ -30,8 +30,10 @@ I am an **Aspiring Data Scientist** with a PhD in Pure Mathematics, building rea
 | **SpaceX Falcon 9 Launch Analysis Portfolio** | End-to-end data science project including data collection, SQL EDA, interactive visual analytics with Folium, and predictive modeling of booster landing success. | [GitHub Repository](https://github.com/machida97/SpaceX_Falcon9_Portfolio) |
 | **Plotly Dash Interactive Dashboard** | Interactive dashboard for SpaceX launch data, hosted online with filters for launch sites, payload mass, and success prediction. | [Live Demo on Render](https://spacex-launch-dashboard.onrender.com/) |
 | **Customer Churn Prediction Portfolio** | Comprehensive customer churn analysis using the Telco dataset. Includes EDA, feature engineering, multiple ML models, reduced-feature Random Forest deployment simulation, and business insights for retention strategy. | [GitHub Repository](https://github.com/machida97/Customer_Churn_Portfolio) |
+| **CO₂ Per Capita Regression Portfolio** | Data science project analyzing global CO₂ emissions with a focus on per-capita emissions. Includes data cleaning, exploratory analysis, multiple regression models, and feature importance evaluation — highlighting the role of **energy consumption per capita** as a key driver. | [GitHub Repository](https://github.com/machida97/CO2_Per_Capita_Portfolio) |
 
-*Additional portfolio projects coming soon!*
+*More projects in progress — including time series forecasting, NLP applications, and advanced ML workflows.*
+
 
 ---
 
